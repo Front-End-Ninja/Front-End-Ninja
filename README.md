@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 <br />
-<-->
 - 🔭 I’m currently working on React Application
+<br />
 - 🌱 I’m currently learning JS, React, Next, Gatsby, Gsap
+<br />
 - 👯 I’m looking to collaborate on React
+<br />
 - 💬 Ask me about anything
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Lukasz-Barylak-Full-Stack-Developer/)
+<br />
 - ⚡ Fun fact: Been training taekwondo for over 13 years, now im about to train my brain (I'm addicted to codding)
--->
 <br />
 
 ### Languages and Tools:
