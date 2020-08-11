@@ -5,11 +5,11 @@
 <br />
 - 🌱 I’m currently learning JS, React, Next, Gatsby, Gsap
 <br />
-- 👯 I’m looking to collaborate on React
+- 👯 I’m looking to collaborate on React Projects
 <br />
 - 💬 Ask me about anything
 <br />
-- ⚡ Fun fact: Been training taekwondo for over 13 years, now im about to train my brain (I'm addicted to codding)
+- ⚡ Fun fact: Been training taekwondo for over 13 years, it's time to train a brain as well! :stuck_out_tongue_closed_eyes:
 <br />
 
 ### Languages and Tools:
