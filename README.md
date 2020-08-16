@@ -9,7 +9,7 @@
 <br />
 - 💬 Ask me about anything
 <br />
-- ⚡ Fun fact: Been training taekwondo for over 13 years, it's time to train a brain as well! :stuck_out_tongue_closed_eyes:
+- ⚡ Fun fact: Been training taekwondo for over 13 year's. Now its codding time! :) :stuck_out_tongue_closed_eyes:
 <br />
 
 ### Languages and Tools:
