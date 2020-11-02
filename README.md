@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <br />
-- 🔭 I’m currently working on foundation webpage baseon on React & Sass
+- 🔭 I’m currently working on foundation webpage based on React & Sass
 <br />
-- 🌱 I’m currently learning JS, React, Next, Gatsby, Gsap, Tailwind, Type-Script
+- 🌱 I’m currently learning JS, React, Next, Gatsby, Gsap, Tailwind, Type-Script, Node.js
 <br />
 - 👯 I’m looking to collaborate on React Projects
 <br />
