@@ -12,9 +12,9 @@
 - ⚡ Fun fact: Been training taekwondo for over 13 year's. Now its codding time! :) :stuck_out_tongue_closed_eyes:
 <br />
 
-Feel free to join my newly created *discord server:* https://discord.gg/8KSu9F2UT4
+Feel free to join my newly created discord server: https://discord.gg/8KSu9F2UT4
 <br />
-You can find a lot of interesting news in IT world...
+It's all about programming, to share knowlage and tech-talk 🤗
 
 ### Languages and Tools:
 
