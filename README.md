@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <br />
-- 🔭 I’m currently working on foundation webpage based on React.js Node.js Express.js and Tailwind
+- 🔭 I’m currently working on webpage based on React.js Node.js Express.js and Tailwind
 <br />
 - 🌱 I’m currently learning JS, React, Next, Gatsby, Gsap, Tailwind, Type-Script, Node.js
 <br />
@@ -12,7 +12,8 @@
 - ⚡ Fun fact: Been training taekwondo for over 13 year's. Now its codding time! :) :stuck_out_tongue_closed_eyes:
 <br />
 
-Feel free to join my newly created discord server: https://discord.gg/8KSu9F2UT4
+Feel free to join my newly created *discord server:* https://discord.gg/8KSu9F2UT4
+<br />
 You can find a lot of interesting news in IT world...
 
 ### Languages and Tools:
