@@ -12,7 +12,8 @@
 - ⚡ Fun fact: Been training taekwondo for over 13 year's. Now its codding time! :) :stuck_out_tongue_closed_eyes:
 <br />
 <br />
-- <img align="left" alt="Discord" width="26px" src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" /> Feel free to join my newly created discord server: https://discord.gg/8KSu9F2UT4
+- Feel free to join my newly created discord server: https://discord.gg/8KSu9F2UT4
+<img align="left" alt="Discord" width="26px" src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" /> 
 <br />
 It's all about programming, to share knowlage and tech-talk 🤗
 
