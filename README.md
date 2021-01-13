@@ -11,7 +11,7 @@
 <br />
 - ⚡ Fun fact: Been training taekwondo for over 13 year's. Now its codding time! :) :stuck_out_tongue_closed_eyes:
 <br />
-
+###
 Feel free to join my newly created <img align="left" alt="Discord" width="26px" src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" />
  server: https://discord.gg/8KSu9F2UT4
 <br />
