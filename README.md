@@ -1,6 +1,6 @@
 <img align="center" alt="Portfolio" width="1000px" src="https://user-images.githubusercontent.com/43832905/108366269-77c29100-71f8-11eb-8cc7-296499835fa5.JPG" />
 
-
+<br />
 - 🌱 I’m currently learning JS, React, Next, Gatsby, Gsap, Tailwind, Type-Script, Node.js
 <br />
 - 👯 I’m looking to collaborate on React Projects
