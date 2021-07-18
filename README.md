@@ -1,4 +1,5 @@
-<img align="center" alt="Portfolio" width="1000px" src="https://user-images.githubusercontent.com/43832905/108366269-77c29100-71f8-11eb-8cc7-296499835fa5.JPG" />
+<img align="center" alt="Portfolio" width="1000px" src="https://user-images.githubusercontent.com/43832905/126065616-ef722fec-c6e6-481e-87ea-caff32792327.png" />
+
 
 # I'm on bit bucket at the moment, working on e-commerce :)
 
