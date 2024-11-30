@@ -1,21 +1,13 @@
 <img align="center" alt="Portfolio" width="1000px" src="https://user-images.githubusercontent.com/43832905/126065616-ef722fec-c6e6-481e-87ea-caff32792327.png" />
 
+---
 
-<br />
-- 🌱 I’m currently learning JS, React, Next, Gatsby, Gsap, Tailwind, Type-Script, Node.js
-<br />
-- 👯 I’m looking to collaborate on React Projects
-<br />
-- 💬 Ask me about anything
-<br />
-- ⚡ Fun fact: Been training taekwondo for over 13 year's. Now its codding time! :) :stuck_out_tongue_closed_eyes:
-<br />
-<br />
-- Feel free to join my newly created discord server: https://discord.gg/8KSu9F2UT4
-<img align="left" alt="Discord" width="26px" src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" /> 
-<br />
-It's all about programming, to share knowlage and tech-talk 🤗
-
+### About Me:
+- 🌱 I’m currently learning **advanced concepts in JS, React, Next.js, Gatsby, GSAP, Tailwind, TypeScript, and Node.js**
+- 👯 I’m looking to collaborate on **challenging React Projects**
+- 💬 Ask me about **web development, modern JavaScript frameworks, or my coding journey!**
+- ⚡ Fun fact: **I trained taekwondo for over 13 years. Now, it's coding time!** 😜
+---
 
 ### Languages and Tools:
 
@@ -33,3 +25,10 @@ It's all about programming, to share knowlage and tech-talk 🤗
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br clear="left" />
+<br />
+
+---
+
+Feel free to reach out for collaboration or if you have any questions. Let's code together! 🚀
