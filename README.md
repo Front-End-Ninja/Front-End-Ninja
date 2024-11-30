@@ -1,4 +1,4 @@
-<img align="center" alt="Portfolio" width="1000px" src="https://user-images.githubusercontent.com/43832905/126065616-ef722fec-c6e6-481e-87ea-caff32792327.png" />
+<img align="center" alt="Portfolio" width="1000px" src="https://github.com/user-attachments/assets/5aa1345a-bf93-4030-9fe9-3ac48124e5d4" />
 
 ---
 
