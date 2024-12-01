@@ -3,7 +3,7 @@
 ---
 
 ### About Me:
-- 🌱 I’m currently learning **advanced concepts in JS, React, Next.js, Gatsby, GSAP, Tailwind, TypeScript, and Node.js**
+- 🌱 I’m currently learning **advanced concepts in JS, React, Next.js, Tailwind, TypeScript, and Node.js**
 - 👯 I’m looking to collaborate on **challenging React Projects**
 - 💬 Ask me about **web development, modern JavaScript frameworks, or my coding journey!**
 - ⚡ Fun fact: **I trained taekwondo for over 13 years. Now, it's coding time!** 😜
